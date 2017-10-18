@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Guam Business Magazine Article"
+date:   2017-09-28 17:54:03 +0000
+categories: jekyll update
+---
+<div class="container">
+    <div class="jumbotron">
+      <div class="col-sm-12">
+        <p>
+          <h1 class="text-center">Going mobile in the new millennium</h1></p>
+        <p><h6 class="text-center"><em>2013 Internet Guide<br />Guam Business Magazine<br />BY: Stephanie Lundberg</em></h6></p>
+        <p>One of the things that Guam Business’ yearly Internet Guide showcases is how successful businesses adapt to changing technology over time. Each year the Guide has grown to feature new and improved websites from all kinds of businesses in all kinds
+          of trade.</p>
+
+        </p>As Alex Fields, general manager of Marianas GPS LLC, notes, a web presence has become a requirement for an organization hoping to thrive in almost any industry today. “People are used to finding you on the net. If they can’t find you, you don’t
+        exist. It doesn’t need to be fancy, but it needs to be there.”</p>
+
+        <p>Fields is a 35-year veteran of the technology sector, and has seen how businesses have had to adjust to remain competitive. “Any company that wishes to maintain the new status quo will have at least a point of presence website, and an email address
+          for contact.”</p>
+
+        <p>With the growth of the smart phone and tablet markets, the Internet Guide has to acknowledge another emerging commercial trend in the digital age: companies are making themselves mobile. To be more precise, savvy businessmen and women are beginning
+          to understand just how important ready, portable access to products and information has become to their customers.</p>
+
+        <p>“Mobile apps and mobile websites are becoming the new calling card for businesses. And if you want repeat visits to your site, it can’t stay the same. Things have to change. Daily, weekly, monthly,” says Fields.</p>
+
+        <p>How important is dynamic mobility to consumers today? In a trend that is set to continue, market research firm IDC reports a decline in personal computer shipments of 2.6 million since 2010 (the first apparent decline since America began its recovery
+          from the recession), while research group Canalys reported a 60% increase in smartphone sales in 2011 alone. Technology group Ericsson even projected that mobile devices would outnumber the world’s population by 2017.</p>
+
+        <p>On the tablet computer side, a study by the Online Publishers Association found that 31% of Internet users owned a tablet computer (more than doubling ownership estimated in 2011), and projected that as many as 47% of U.S. Internet users will
+          own some brand of tablet by next year.</p>
+
+        <p>And the numbers regarding mobile device usage are equally compelling: In the same report as above, Ericsson stated that 40% of all smartphone users access the Internet and mobile applications before they even get out of bed. A Pew Research Center
+          study released in 2011 found that 51% percent of adult smart phone owners use their mobile phones to keep up on the news and other current information. OPA’s study found that 60% percent of tablet owners used their tablets several times a day,
+          with an average usage time of 14 hours per week.</p>
+
+        <p>Given these statistics, it’s no wonder that businesses are starting to focus on making their information accessible to a mobile consumer. There are several ways to accomplish this, but two of the most common ways today are through a mobile website
+          or a mobile application.</p>
+
+        <p>In the past several years, technical terminology - particularly surrounding smartphones and other mobile devices - has entered into our everyday lexicon. However, it can still be helpful to a business to define just what kind of project they are
+          putting up for consideration when they are considering a mobile website or app.</p>
+
+        <p>A mobile website is designed to be accessed expressly on a small-screened device’s Internet browser, such as a cell phone or a tablet computer. A mobile app is a software application, like an email client or a digital calendar, that is built to
+          run exclusively on mobile devices.</p>
+
+        <p>Although a well designed website can be easily viewed on a mobile device, a good mobile website design will cater to both the company’s goals and the mobile device’s specifications. The same considerations hold true for a mobile application, and
+          deciding which mobile method to use depends on a number of factors.</p>
+
+        <p>“It’s more than just scaling down the text size and shrinking images,” says Fields. “It’s a delicate balance between what the user needs and what the company wants. A mobile website is dynamic, it’s driven by an Internet server and almost any
+          facet of the application can be changed relatively quickly.”</p>
+
+        <p>“A mobile app is a bit more rigid and can’t change its behavior, but can stand alone without any need for server or network support,” continues Fields. “It comes down to what task does the company wish to accomplish, what satisfies the end user
+          the best, and whether those needs are best served by an integrated app or a web-based [site]. Those answers can easily change due to budget, time constraints, expertise, and design modifications.”</p>
+
+        <p>Another consideration in the decision between the two methods is that while a mobile website can be easily managed (similar in nature to a traditional website), mobile applications require more planning and monitoring on the business’ part, especially
+          if their app has multiple features.</p>
+        <p>“Updating mobile applications is usually more involved. Because you’re altering the application, before publishing on the online stores, a review process is required to ensure that the app meets certain guidelines. Approval is not guaranteed,
+          and sometimes can require additional changes and resubmission before approval,” says Fields.
+          </>
+        </p>How much cost a business can expect to bear when planning for a mobile project can vary according to the project’s size and goals. “It depends on the needs of the company, and how technical the solution is,” says Fields. “A construction company
+        might get away with a mobile website with only contact information and a few project photos that can be displayed on any phone. This doesn’t really need user interaction, and could be built relatively inexpensively.”</p>
+        <p>“However, a financial institution that wants to allow its clients to interact via smart phone might need a dedicated app in order to address privacy issues, federal requirements, governing policies, and many other factors. That will add costs
+          to the development that could run into thousands and thousands of dollars. The more complicated or intricate the task, the more man-hours it will take to finish. And more cost,” he says.</p>
+        <p>An additional budget consideration for a company is the targeted platform for their mobile app. “Top iPhone developers are worthless on Android. Android developers can’t do [Samsung’s] Bada. Bada developers aren’t good at Windows Mobile. It’s
+          a vicious circle. If you want an app for ‘every’ device, you’re talking a lot of money, because each phone is different,” he says.</p>
+        <p>Rather than focus on creating an app for every device, Fields believes that most businesses are best served by focusing their app’s development and function on major platforms like Google Android and the Apple iPhone, since those two platforms
+          make up the majority of the current smartphone market.</p>Another possibility for businesses with smaller budgets is to use a web content management system such as WordPress or Joomla, which offer affordable all-in-one packages for creating
+        and managing a website. In addition to allowing business owners with little experience in web design to create a functional site, some web CMS services are also beginning to offer automatic support for mobile platforms.</p>
+        <p>“I use Joomla, which is now entering version 3 with mobile support. Drupal and other leading CMS packages will release versions later this year to support mobile platforms. This allows web publishers to target mobile browsers without having to
+          redo anything. The CMS will resize and restructure the information display to accommodate the reported screen size,” he says.</p>
+        <p>Why are web CMS packages a good option for smaller companies seeking a mobile presence? In short, it might save these companies money. “Sometimes policy or partnership requires larger companies to maintain a certain configuration for their IT
+          requirements. Smaller businesses have the advantage of not having to obligate themselves to any one solution. And open source software gives smaller companies the economic advantage they need to stay competitive,” says Fields of the web CMS
+          option.</p>
+        <p>“All things being equal, you’re going to have to pay for the labor of installation and configuration anyway. Why add needless cost when the solution is available for free? I would advise anyone to make a list of their requirements, and add the
+          phrase ‘open source’ to their search terms when they start researching.”</p>
+        <p>Above all, Fields recommends that companies evaluate their financial and commercial goals for a mobile project before making the final judgment on a mobile website or application. Executives should ask what they want to accomplish for the user
+          (and what the user will want to accomplish with the company’s website or app), how much they can afford to spend on the project, and how their needs for the mobile project may change in the future.</p> “Typically ideas fail not because they’re
+        bad ideas, but because they weren’t well thought out and weren’t followed up,” Fields says. “Before a company approaches a designer, they have to have an idea about what they want designed. What goals need to be accomplished? Is there a time constraint
+        on the project? Is there a specific theme or image trying to be identified? What resources are needed, and what resources are available?”</p>
+        <p>Strong corporate planning and research is key to the success of a mobile project, says Fields, who gave Guam Business some final advice to pass on to businesses considering a foray into the growing mobile market.</p>
+        <p>“Review your timeline. Review your budget. Get your goals straight. Produce your requirements document. Talk to your IT guys. Review your timeline again. Review your budget again. Get your goals straight again. Produce your requirements document
+          again. Talk to your IT guys again. Rinse. Repeat until budget, timeline, goals and requirements all have equal value.”</p>
+        <p class="text-center">###</p>
+      </div>
+    </div>
+  </div>
